@@ -5,34 +5,36 @@ This repository is a curated collection of resources for photographers of all le
 
 ## Table of Contents
 
-- [Tutorials](#tutorials)
-  - [Beginner](#beginner)
-  - [Intermediate](#intermediate)
-  - [Advanced](#advanced)
-  - [Specific Techniques](#specific-techniques)
-- [Software](#software)
-  - [Image Editing](#image-editing)
-  - [Raw Processing](#raw-processing)
-  - [Photo Management](#photo-management)
-  - [Other Essential Tools](#other-essential-tools)
-- [Plugins](#plugins)
-  - [Lightroom](#lightroom)
-  - [Photoshop](#photoshop)
-  - [Other Software](#other-software)
-- [Presets](#presets)
-  - [Free Presets](#free-presets)
-  - [Paid Presets](#paid-presets)
-  - [How to Create Your Own Presets](#how-to-create-your-own-presets)
-- [Cheat Sheets](#cheat-sheets)
-  - [Exposure Triangle](#exposure-triangle)
-  - [Camera Settings](#camera-settings)
-  - [Lighting Techniques](#lighting-techniques)
-  - [Other Quick Reference Guides](#other-quick-reference-guides)
-- [Online Resources](#online-resources)
-  - [Photography Websites and Blogs](#photography-websites-and-blogs)
-  - [Forums and Communities](#forums-and-communities)
-  - [Stock Photo Sites](#stock-photo-sites)
-  - [Educational Platforms](#educational-platforms)
+- [PhotoTreasure](#phototreasure)
+  - [Table of Contents](#table-of-contents)
+  - [Tutorials](#tutorials)
+    - [Beginner](#beginner)
+    - [Intermediate](#intermediate)
+    - [Advanced](#advanced)
+    - [Specific Techniques](#specific-techniques)
+  - [Youtube](#youtube)
+    - [Technology](#technology)
+    - [Sinhala](#sinhala)
+  - [Software](#software)
+    - [Image Editing](#image-editing)
+    - [Raw Processing](#raw-processing)
+    - [Photo Management](#photo-management)
+    - [Other Essential Tools](#other-essential-tools)
+  - [Plugins](#plugins)
+    - [Lightroom](#lightroom)
+    - [Photoshop](#photoshop)
+    - [Other Software](#other-software)
+  - [Presets](#presets)
+    - [Free Presets](#free-presets)
+    - [Paid Presets](#paid-presets)
+    - [How to Create Your Own Presets](#how-to-create-your-own-presets)
+  - [Cheat Sheets](#cheat-sheets)
+    - [Other Quick Reference Guides](#other-quick-reference-guides)
+  - [Online Resources](#online-resources)
+    - [Photography Websites and Blogs](#photography-websites-and-blogs)
+    - [Forums and Communities](#forums-and-communities)
+    - [Stock Photo Sites](#stock-photo-sites)
+    - [Educational Platforms](#educational-platforms)
 
 ## Tutorials
 
@@ -67,6 +69,18 @@ This repository is a curated collection of resources for photographers of all le
   - YouTube Channel: Micael Widell: [Micael Widell's Macro Photography](https://www.youtube.com/@MicaelWidell)
 - **Astrophotography:**
   - Astrobin: [Astrobin](https://www.astrobin.com)
+
+## Youtube
+
+### Technology
+  
+  - [Video Tech Explained](https://www.youtube.com/@VideoTechExplained)
+  - [Camera Zone](https://www.youtube.com/@camerazone_)
+
+### Sinhala
+  - [Krishantha Dinesh](https://www.youtube.com/playlist?list=PLQb7r4ipXHqwzdtc9kKCkrSlLWEdNOxdZ)
+  - [Institute of Multimedia Education](https://www.youtube.com/@ImeEduLk)
+
 
 ## Software
 
@@ -126,17 +140,7 @@ This repository is a curated collection of resources for photographers of all le
 
 ## Cheat Sheets
 
-### Exposure Triangle
-
-- [Exposure Triangle Cheat Sheet](https://www.exposureguide.com/exposure-triangle/)
-
-### Camera Settings
-
-- [Camera Settings Cheat Sheet](https://www.photography.com.au/cheat-sheet/)
-
-### Lighting Techniques
-
-- [Lighting Techniques Guide](https://www.photographycourse.net/photography-lighting-techniques/)
+- Photography & Camera Settings: [Shotkit](https://shotkit.com/photography-cheat-sheets/)
 
 ### Other Quick Reference Guides
 
