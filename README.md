@@ -1,6 +1,8 @@
 # PhotoTreasure
 A Collection of Photography Resources
 
+![Cover Photo](cover_image_that_captures_3.jpg)
+
 This repository is a curated collection of resources for photographers of all levels. It includes tutorials, software recommendations, plugin suggestions, preset packs, handy cheat sheets, and links to valuable online resources.
 
 ## Table of Contents
@@ -90,9 +92,14 @@ This repository is a curated collection of resources for photographers of all le
 - Affinity Photo: [Affinity Photo](https://affinity.serif.com/en-us/photo/)
 
 ### Raw Processing
+- Free Open Source
+  - RawTherapee: [RawTherapee](https://www.rawtherapee.com)
+  - Darktable: [Darktable](https://www.darktable.org/)
 
-- Adobe Lightroom: [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
-- Capture One: [Capture One](https://www.captureone.com)
+- Paid
+  - Adobe Lightroom: [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+  - Capture One: [Capture One](https://www.captureone.com)
+
 
 ### Photo Management
 
