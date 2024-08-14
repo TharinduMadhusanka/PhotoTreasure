@@ -48,6 +48,10 @@ This repository is a curated collection of resources for photographers of all le
 - **Online Courses:**
   - Udemy: [Udemy Photography Courses](https://www.udemy.com/topic/photography/)
   - Skillshare: [Skillshare Photography Courses](https://www.skillshare.com/browse/photography)
+- **Simulations:**
+  - Camerasim: [Camera simulation](https://www.camerasim.com/)
+  - Andersenimages: [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/) | [DOF and Hyperfocal](http://www.andersenimages.com/tutorials/hyperfocal/) 
+  - Dofsimulator: [DOF Simulator](https://dofsimulator.net/en/) 
 
 ### Intermediate
 
