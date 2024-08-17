@@ -161,9 +161,8 @@ This repository is a curated collection of resources for photographers of all le
 
 ### Photography Websites and Blogs
 
-- [Digital Photography School](https://digital-photography-school.com)
+- PetaPixel [Learn Photography](https://petapixel.com/learn-photography/)
 - [Fstoppers](https://fstoppers.com)
-- [PetaPixel](https://petapixel.com)
 
 ### Forums and Communities
 
