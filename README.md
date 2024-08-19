@@ -43,11 +43,10 @@ This repository is a curated collection of resources for photographers of all le
 ### Beginner
 
 - **YouTube Channels:**
-  - Peter McKinnon: [Peter McKinnon YouTube Channel](https://www.youtube.com/user/petermckinnon)
-  - Sorelle Amore: [Sorelle Amore YouTube Channel](https://www.youtube.com/channel/UCvS5bI5d7NfgNz4YTr5Z5Vg)
+  - Peter McKinnon: [Peter McKinnon YouTube Channel](https://www.youtube.com/@petermckinnon)
+
 - **Online Courses:**
-  - Udemy: [Udemy Photography Courses](https://www.udemy.com/topic/photography/)
-  - Skillshare: [Skillshare Photography Courses](https://www.skillshare.com/browse/photography)
+
 - **Simulations:**
   - Camerasim: [Camera simulation](https://www.camerasim.com/original-camerasim)
   - Andersenimages: [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/) | [DOF and Hyperfocal](http://www.andersenimages.com/tutorials/hyperfocal/) 
@@ -55,20 +54,18 @@ This repository is a curated collection of resources for photographers of all le
 
 ### Intermediate
 
-- Strobist: [Strobist Website](https://strobist.blogspot.com)
-- Digital Photography School: [Digital Photography School](https://digital-photography-school.com)
 - Phlearn: [Phlearn Website](https://phlearn.com)
 
 ### Advanced
 
 - National Geographic Photography: [National Geographic Photography](https://www.nationalgeographic.com/photography)
 - Lens Rentals Blog: [Lens Rentals Blog](https://www.lensrentals.com/blog/)
-- The Online Photographer: [The Online Photographer](https://theonlinephotographer.typepad.com)
+
 
 ### Specific Techniques
 
 - **Portrait Photography:**
-  - SLR Lounge: [SLR Lounge Portrait Tutorials](https://www.slrlounge.com/category/education/portrait-photography/)
+  - SLR Lounge: [SLR Lounge Portrait Tutorials](https://www.slrlounge.com/)
 - **Landscape Photography:**
   - Capture the Atlas: [Capture the Atlas](https://capturetheatlas.com)
 - **Macro Photography:**
@@ -125,7 +122,7 @@ This repository is a curated collection of resources for photographers of all le
 ### Photoshop
 
 - Nik Collection: [Nik Collection](https://nikcollection.dxo.com)
-- PortraitPro: [PortraitPro](https://www.portraitpro.com)
+- PortraitPro: [PortraitPro](https://www.anthropics.com/portraitpro/)
 
 ### Other Software
 
@@ -136,18 +133,16 @@ This repository is a curated collection of resources for photographers of all le
 
 ### Free Presets
 
-- [Adobe Lightroom Free Presets](https://www.adobe.com/products/photoshop-lightroom/presets.html)
-- [Photoshop Free Actions](https://www.photoshopessentials.com/photo-effects/)
+
 
 ### Paid Presets
 
-- [Mastin Labs Presets](https://mastinlabs.com)
-- [RNI Films](https://www.rnifilters.com)
+
 
 ### How to Create Your Own Presets
 
-- [Creating Lightroom Presets](https://www.adobe.com/products/photoshop-lightroom/presets.html)
-- [Creating Photoshop Actions](https://helpx.adobe.com/photoshop/using/actions.html)
+- [Creating Lightroom Presets](https://helpx.adobe.com/ph_fil/lightroom-cc/how-to/create-your-own-presets.html)
+- [Creating Photoshop Actions](https://helpx.adobe.com/photoshop/using/creating-actions.html)
 
 ## Cheat Sheets
 
@@ -166,7 +161,6 @@ This repository is a curated collection of resources for photographers of all le
 
 ### Forums and Communities
 
-- [Photography on the Net](https://photography-on-the.net)
 - [Reddit Photography](https://www.reddit.com/r/photography/)
 - [Photo.net](https://www.photo.net)
 
