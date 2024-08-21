@@ -79,6 +79,8 @@ This repository is a curated collection of resources for photographers of all le
   
   - [Video Tech Explained](https://www.youtube.com/@VideoTechExplained)
   - [Camera Zone](https://www.youtube.com/@camerazone_)
+  - [StudioBinder](https://www.youtube.com/@StudioBinder)
+  - [FilmmakerIQ](https://www.youtube.com/@FilmmakerIQ)
 
 ### Sinhala
   - [Krishantha Dinesh](https://www.youtube.com/playlist?list=PLQb7r4ipXHqwzdtc9kKCkrSlLWEdNOxdZ)
