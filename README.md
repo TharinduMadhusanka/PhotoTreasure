@@ -17,6 +17,7 @@ This repository is a curated collection of resources for photographers of all le
   - [Youtube](#youtube)
     - [Technology](#technology)
     - [Sinhala](#sinhala)
+    - [Playlist](#playlist)
   - [Software](#software)
     - [Image Editing](#image-editing)
     - [Raw Processing](#raw-processing)
@@ -85,6 +86,10 @@ This repository is a curated collection of resources for photographers of all le
 ### Sinhala
   - [Krishantha Dinesh](https://www.youtube.com/playlist?list=PLQb7r4ipXHqwzdtc9kKCkrSlLWEdNOxdZ)
   - [Institute of Multimedia Education](https://www.youtube.com/@ImeEduLk)
+  - [Boopathy Nalin](https://www.youtube.com/@BoopathyNalin/videos)
+
+### Playlist
+  - Compotition [Visual Patterns by Pat Kay](https://www.youtube.com/playlist?list=PLTQtLjIqecdydlanOGh6iwoWOb9VxpDts)
 
 
 ## Software
