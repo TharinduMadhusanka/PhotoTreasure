@@ -1,4 +1,5 @@
 # PhotoTreasure
+
 A Collection of Photography Resources
 
 ![Cover Photo](cover_image_that_captures_3.jpg)
@@ -44,14 +45,15 @@ This repository is a curated collection of resources for photographers of all le
 ### Beginner
 
 - **YouTube Channels:**
+
   - Peter McKinnon: [Peter McKinnon YouTube Channel](https://www.youtube.com/@petermckinnon)
 
 - **Online Courses:**
 
 - **Simulations:**
   - Camerasim: [Camera simulation](https://www.camerasim.com/original-camerasim)
-  - Andersenimages: [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/) | [DOF and Hyperfocal](http://www.andersenimages.com/tutorials/hyperfocal/) 
-  - Dofsimulator: [DOF Simulator](https://dofsimulator.net/en/) 
+  - Andersenimages: [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/) | [DOF and Hyperfocal](http://www.andersenimages.com/tutorials/hyperfocal/)
+  - Dofsimulator: [DOF Simulator](https://dofsimulator.net/en/)
 
 ### Intermediate
 
@@ -61,7 +63,6 @@ This repository is a curated collection of resources for photographers of all le
 
 - National Geographic Photography: [National Geographic Photography](https://www.nationalgeographic.com/photography)
 - Lens Rentals Blog: [Lens Rentals Blog](https://www.lensrentals.com/blog/)
-
 
 ### Specific Techniques
 
@@ -77,20 +78,22 @@ This repository is a curated collection of resources for photographers of all le
 ## Youtube
 
 ### Technology
-  
-  - [Video Tech Explained](https://www.youtube.com/@VideoTechExplained)
-  - [Camera Zone](https://www.youtube.com/@camerazone_)
-  - [StudioBinder](https://www.youtube.com/@StudioBinder)
-  - [FilmmakerIQ](https://www.youtube.com/@FilmmakerIQ)
+
+- [Video Tech Explained](https://www.youtube.com/@VideoTechExplained)
+- [Camera Zone](https://www.youtube.com/@camerazone_)
+- [StudioBinder](https://www.youtube.com/@StudioBinder)
+- [FilmmakerIQ](https://www.youtube.com/@FilmmakerIQ)
 
 ### Sinhala
-  - [Krishantha Dinesh](https://www.youtube.com/playlist?list=PLQb7r4ipXHqwzdtc9kKCkrSlLWEdNOxdZ)
-  - [Institute of Multimedia Education](https://www.youtube.com/@ImeEduLk)
-  - [Boopathy Nalin](https://www.youtube.com/@BoopathyNalin/videos)
+
+- [Krishantha Dinesh](https://www.youtube.com/playlist?list=PLQb7r4ipXHqwzdtc9kKCkrSlLWEdNOxdZ)
+- [Boopathy Nalin](https://www.youtube.com/@BoopathyNalin/videos)
+- [RealFictionFilms](https://www.youtube.com/@RealFictionFilms)
+- [Institute of Multimedia Education](https://www.youtube.com/@ImeEduLk)
 
 ### Playlist
-  - Compotition [Visual Patterns by Pat Kay](https://www.youtube.com/playlist?list=PLTQtLjIqecdydlanOGh6iwoWOb9VxpDts)
 
+- Compotition [Visual Patterns by Pat Kay](https://www.youtube.com/playlist?list=PLTQtLjIqecdydlanOGh6iwoWOb9VxpDts)
 
 ## Software
 
@@ -100,14 +103,15 @@ This repository is a curated collection of resources for photographers of all le
 - Affinity Photo: [Affinity Photo](https://affinity.serif.com/en-us/photo/)
 
 ### Raw Processing
+
 - Free Open Source
+
   - RawTherapee: [RawTherapee](https://www.rawtherapee.com)
   - Darktable: [Darktable](https://www.darktable.org/)
 
 - Paid
   - Adobe Lightroom: [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
   - Capture One: [Capture One](https://www.captureone.com)
-
 
 ### Photo Management
 
@@ -140,11 +144,7 @@ This repository is a curated collection of resources for photographers of all le
 
 ### Free Presets
 
-
-
 ### Paid Presets
-
-
 
 ### How to Create Your Own Presets
 
