@@ -17,6 +17,7 @@ This repository is a curated collection of resources for photographers of all le
     - [Specific Techniques](#specific-techniques)
   - [Youtube](#youtube)
     - [Technology](#technology)
+    - [Practical](#practical)
     - [Sinhala](#sinhala)
     - [Playlist](#playlist)
   - [Software](#software)
@@ -84,12 +85,17 @@ This repository is a curated collection of resources for photographers of all le
 - [StudioBinder](https://www.youtube.com/@StudioBinder)
 - [FilmmakerIQ](https://www.youtube.com/@FilmmakerIQ)
 
+### Practical 
+- [PIXEL VIILAGE](https://www.youtube.com/@PIXELVIILAGE)
+
 ### Sinhala
 
 - [Krishantha Dinesh](https://www.youtube.com/playlist?list=PLQb7r4ipXHqwzdtc9kKCkrSlLWEdNOxdZ)
 - [Boopathy Nalin](https://www.youtube.com/@BoopathyNalin/videos)
 - [RealFictionFilms](https://www.youtube.com/@RealFictionFilms)
 - [Institute of Multimedia Education](https://www.youtube.com/@ImeEduLk)
+- Boopathy Nalin
+  - [VINENA 2024](https://www.youtube.com/watch?v=KK6-zF_qpMU)
 
 ### Playlist
 
