@@ -75,6 +75,8 @@ This repository is a curated collection of resources for photographers of all le
   - YouTube Channel: Micael Widell: [Micael Widell's Macro Photography](https://www.youtube.com/@MicaelWidell)
 - **Astrophotography:**
   - Astrobin: [Astrobin](https://www.astrobin.com)
+- **Printing and Other:**
+  - First Man Photography : [First Man Photography](https://www.youtube.com/@Firstmanphotography)
 
 ## Youtube
 
