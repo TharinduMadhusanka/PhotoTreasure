@@ -49,7 +49,8 @@ This repository is a curated collection of resources for photographers of all le
 
   - Peter McKinnon: [Peter McKinnon YouTube Channel](https://www.youtube.com/@petermckinnon)
 
-- **Online Courses:**
+- **Important:**
+  - Road Map : [Photography Roadmap](https://medium.com/@ludovic.migneault/photography-roadmap-78feb3d43715)
 
 - **Simulations:**
   - Camerasim: [Camera simulation](https://www.camerasim.com/original-camerasim)
