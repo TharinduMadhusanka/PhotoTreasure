@@ -20,6 +20,7 @@ This repository is a curated collection of resources for photographers of all le
     - [Practical](#practical)
     - [Sinhala](#sinhala)
     - [Playlist](#playlist)
+    - [Landscape](#landscape)
   - [Software](#software)
     - [Image Editing](#image-editing)
     - [Raw Processing](#raw-processing)
@@ -50,6 +51,7 @@ This repository is a curated collection of resources for photographers of all le
   - Peter McKinnon: [Peter McKinnon YouTube Channel](https://www.youtube.com/@petermckinnon)
 
 - **Important:**
+
   - Road Map : [Photography Roadmap](https://medium.com/@ludovic.migneault/photography-roadmap-78feb3d43715)
 
 - **Simulations:**
@@ -88,7 +90,8 @@ This repository is a curated collection of resources for photographers of all le
 - [StudioBinder](https://www.youtube.com/@StudioBinder)
 - [FilmmakerIQ](https://www.youtube.com/@FilmmakerIQ)
 
-### Practical 
+### Practical
+
 - [PIXEL VIILAGE](https://www.youtube.com/@PIXELVIILAGE)
 
 ### Sinhala
@@ -103,6 +106,10 @@ This repository is a curated collection of resources for photographers of all le
 ### Playlist
 
 - Compotition [Visual Patterns by Pat Kay](https://www.youtube.com/playlist?list=PLTQtLjIqecdydlanOGh6iwoWOb9VxpDts)
+
+### Landscape
+
+- [ThePhlogPhotography](https://www.youtube.com/@ThePhlogPhotography)
 
 ## Software
 
